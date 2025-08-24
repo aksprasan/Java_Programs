@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class FeetToMiles{
     public static void main(String[] args){
+        int feetToMile = 5280;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of feet: ");
         int num = sc.nextInt();
